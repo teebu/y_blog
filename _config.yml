@@ -18,7 +18,7 @@ title: Trivia Labs
 email: i+trivialabs@yuriy.net
 description: "Welcome to Trivia Labs"
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://gh.yuriy.net"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Trivia Labs
   #twitter: Towlette_Pettetucci
