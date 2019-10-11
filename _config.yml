@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Trivia Labs
+email: i+trivialabs@yuriy.net
+description: "Welcome to Trivia Labs"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+  name: Admin
+  #twitter: Towlette_Pettetucci
+  #picture: https://api.adorable.io/avatars/285/johndoe.png
+#twitter_username: Towlette_Pettetucci
+#github_username: Towlette_Pettetucci
 logo: /assets/icons/basically-basic-logo-light.svg
 search: true
 search_full_content: true
@@ -69,7 +69,7 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  recipes:
+  apps:
     output: true
     permalink: /:collection/:path/
 
@@ -82,10 +82,10 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
+  # _apps
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_apps"
+      type: apps
     values:
       layout: post
       read_time: true

@@ -1,9 +1,9 @@
 ---
-title: Recipes
+title: Apps
 layout: collection
-permalink: /recipes/
-collection: recipes
+permalink: /apps/
+collection: apps
 entries_layout: grid
 ---
 
-Sample document listing for the collection `_recipes`.
+Sample document listing for the collection `_apps`.

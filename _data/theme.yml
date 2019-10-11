@@ -33,6 +33,6 @@ navigation_pages:
   - posts.md
   - recipes.md
   - about.md
-  - cv.md
-  - tags.md
-  - categories.md
+#  - cv.md
+#  - tags.md
+#  - categories.md
