@@ -81,11 +81,11 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
   # _apps
   - scope:
       path: "_apps"
       type: apps
     values:
       layout: post
-      read_time: true
+      read_time: false
