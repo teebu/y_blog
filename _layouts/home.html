@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include page-intro.html %}
+
+<main id="main" class="page-content" aria-label="Content">
+    <div class="index inner">
+        <div>{{ content }}</div>
+
+        <div>
+            <header class="section-title">
+                <h2>{{ site.data.theme.t.apps | default: 'Apps' }}</h2>
+            </header>
+            <div class="entries-{{ page.entries_layout | default: 'grid' }}">
+                {% include documents-collection.html collection='apps' %}
+            </div>
+        </div>
+
+    </div>
+
+
+</main>

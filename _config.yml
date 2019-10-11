@@ -20,12 +20,12 @@ description: "Welcome to Trivia Labs"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Admin
+  name: Trivia Labs
   #twitter: Towlette_Pettetucci
   #picture: https://api.adorable.io/avatars/285/johndoe.png
 #twitter_username: Towlette_Pettetucci
 #github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/Conical_flask_green.svg
 search: true
 search_full_content: true
 search_provider: lunr
