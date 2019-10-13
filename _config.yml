@@ -16,6 +16,9 @@
 lang: en-US
 title: Trivia Labs
 email: i+trivialabs@yuriy.net
+amazon_store: 'Trivia+Labs'
+apple_store: 'trivia-labs/id502193653'
+#android_store: 'Trivia+Labs'
 description: "Welcome to Trivia Labs"
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://yuriy.net"  # the base hostname & protocol for your site, e.g. http://example.com
